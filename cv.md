@@ -3,55 +3,56 @@ layout: default
 title: Curriculum Vitae
 ---
 
-BERNARD KWESI ASEM  
-BSc Computer Science  
-Mobile: +233548481767  
-Email: [Send Email](asembernard5@gmail.com)  
+**BERNARD KWESI ASEM**  
+**BSc Computer Science**  
+**Mobile:** +233548481767  
+**Email:** [Send Email](asembernard5@gmail.com)  
 G47 Avocado Street, 
 GC-185-4233, Ghana  
-LinkedIn:[View Profile](https://tinyurl.com/2r3z539r) 
+**LinkedIn:** [View Profile](https://tinyurl.com/2r3z539r) 
 
 ## RESEARCH INTERESTS                                                                                                                                   
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Cybersecurity
-* Computer Security
+* **Artificial Intelligence**
+* **Machine Learning**
+* **Data Science**
+* **Cybersecurity**
+* **Computer Security**
  
 ## EDUCATION
-Nov, 2021 – Nov, 2025         
-BSc Computer Science  
+         
+**BSc Computer Science**  
 University of Business and Integrated Development Studies, Wa.  
+Nov, 2021 – Nov, 2025
 Final Grade :	4.59/5.0 <br>             	 	 	 	 	 
 Thesis Title:  
-Plant Disease Classification Using Machine Learning Techniques   
+**Plant Disease Classification Using Machine Learning Techniques**   
 
-Mar, 2018 – Sep, 2018  
-Advanced Professional in System Engineering  
+**Advanced Professional in System Engineering**  
 IPMC College of Technology, Accra-Ghana  
+Mar, 2018 – Sep, 2018  
 Final Grade: (Distinction)    
 
-July, 2016 – Jan, 2017  
-IPMC Professional in System Engineering                                             
+**Professional in System Engineering**  
 IPMC College of Technology, Accra-Ghana   	 	 
+July, 2016 – Jan, 2017  
 Final Grade: (Distinction)   	 	 	 	 	 	 	 	 	 
  
 ## SKILLS AND COMPETENCES                                             
-Software and Programming Languages: C++, Python, Visual Basic .Net, SPSS, MATLAB, SQL, Microsoft Office Suite, WEKA, HTML, CSS, MIDAS, and PISCES.  
-System Engineering: Computer Network Configuration and Troubleshooting, Windows Server Administration, Basic computer hardware installation and repair.  
-Personal Strengths: Excellent communication, Interpersonal relationship skills, Leadership, and Team Player, 
+**Software and Programming Languages:** C++, Python, Visual Basic .Net, SPSS, MATLAB, SQL, Microsoft Office Suite, WEKA, HTML, CSS, MIDAS, and PISCES.  
+**System Engineering:** Computer Network Configuration and Troubleshooting, Windows Server Administration, Basic computer hardware installation and repair.  
+**Personal Strengths:** Excellent communication, Interpersonal relationship skills, Leadership, and Team Player, 
 Organizational skills, Public Speaking.  
 
   	
 ## WORK EXPERIENCE                                                                                                                     
+**Ghana Immigration Service, Accra**						
 August, 2025 - Present  
-Ghana Immigration Service, Accra						
 •	Issued over eight hundred (800) residence permits and visa extensions.  
 •	Captured about 1,700 entries of issuances of permits and extensions unto the Ghana Immigration Service MIS.  
-
-April, 2020 – August, 2025  
-Ghana Immigration Service, Wa  
+  
+**Ghana Immigration Service, Wa**  
 MIS Unit- Assistant Team Lead                                                             	 	 
+April, 2020 – August, 2025
 •	Installed and configured over 10 newly acquired computer systems.   
 •	Ensured timely software and hardware updates of about 20 desktop computers and printers.    
 •	Assessed and maintained computer systems and assets in the office.  
@@ -61,25 +62,25 @@ MIS Unit- Assistant Team Lead
 
 ## RESEARCH EXPERIENCE  
 
-August, 2022 - September, 2022
 University of Business and Integrated Development Studies, Wa   				
-Field Practical Training							   
+**Field Practical Training**
+August, 2022 - September, 2022
 •	Created a Community Profile for the Goziiri community in the Upper West Region of Ghana using research techniques to gather, analyze and interpret data arriving at a recommendation of a needed community project with a detailed proposal.   
 
+**Undergraduate Final Year Research Project**  					
 June, 2025 - August, 2025  
-Undergraduate Final Year Research Project  					
 •	Undergraduate research project on Plant Disease Classification Using Machine Learning Techniques leading to a mobile and offline application for both extensive and smallholder farmers.   
  
 ## TEACHING EXPERIENCE                                                                                                                  
-Nov, 2021 – July, 2025  
-Academic Tutor   	 	 	 	 	 	 	 	 	 
+**Academic Tutor**   	 	 	 	 	 	 	 	 	 
 Faculty of Information and Communication Technology, UBIDS, Wa.    
+Nov, 2021 – July, 2025  
 •	Prepared academic materials and organized tutorials for over 200 class mates and other students at lower levels.   
 •	Established and coordinated a study group, leading classes and practical sessions contributing to improvement in performance of colleagues in study groups.   
 
-Jan, 2017 - September 2017  
-Academic Tutor (ICT) 	 	 	 	   	 	 	 	 
+**Academic Tutor (ICT)** 	 	 	 	   	 	 	 	 
 Destined Kids International School   
+Jan, 2017 - September 2017  
 •	Created weekly teaching syllabus with focus on relevant previous knowledge and practical engagements.   
 •	Taught about 120 students from Grades 4 to 7, and introduced students to computer practical and lab sessions.   
 •	Assessed and evaluated student’s performance daily, weekly, mid-term and termly.   
