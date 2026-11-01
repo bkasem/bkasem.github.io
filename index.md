@@ -11,7 +11,7 @@ title: Home
 <table style="border: none; width: 100%;">
   <tr>
     <td style="width: 30%; vertical-align: top; border: none; text-align: center; padding-right: 20px;">
-      <img src="assets/images/flyerphoto.jpg" width="100%" style="border-radius: 50%; max-width: 160px; height: 160px; object-fit: cover;" alt="Bernard Kwesi Asem" />
+      <img src="assets/images/flyerphoto.jpg" width="100%" style="border-radius: 50%; max-width: 180px; height: 160px; object-fit: cover;" alt="Bernard Kwesi Asem" />
     </td>
     <td style="width: 70%; vertical-align: top; border: none;">
       <h2>Bernard Kwesi Asem</h2>
