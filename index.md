@@ -8,6 +8,10 @@ title: Home
 
 
 # About Me
+<p align="center">
+  <img src="assets/images/my-photo.jpg" width="200px" style="border-radius: 50%;" alt="Bernard Kwesi Asem" />
+</p>
+
 Professional immigration officer with more than six (6) years of working experience in migration, with the Ghana Immigration Service. My main duties included and is not limited to MIS roles, Aide to the regional commander, supervising digital infrastructure for recruitments, verfication of applications for residence permits and issuance of same. I have a Bachelor of Science in Compter Science degree which i intend to use a foundation for pursuing a master's degree, and in the long run a PhD. I had my undergraduate studies in University of Business and Integrated Development Studies, located in Wa, Ghana.  
 
 My interests are in Artificial Intelligence, Data Science, and its intersection with application areas in agriculture, cybersecurty, therapy, migration, and other areas. My short term goals evolve around designing long-lasting AI-driven systems, that will contribute to solving Ghana's critical digital deficit and administrative reforms, involving policy and initiative development, digital health and safety, agriculture sustainability and climate resilience.
