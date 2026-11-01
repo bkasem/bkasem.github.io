@@ -8,9 +8,17 @@ title: Home
 
 
 # About Me
-<p align="center">
-  <img src="assets/images/flyerphoto.jpg" width="200px" style="border-radius: 50%;" alt="Bernard Kwesi Asem" />
-</p>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="width: 30%; vertical-align: top; border: none; text-align: center; padding-right: 20px;">
+      <img src="assets/images/flyerphoto.jpg" width="100%" style="border-radius: 50%; max-width: 180px;" alt="Bernard Kwesi Asem" />
+    </td>
+    <td style="width: 70%; vertical-align: top; border: none;">
+      <h2>About Me</h2>
+      <p>Professional immigration officer with more than six (6) years of working experience in migration, with the Ghana Immigration Service...</p>
+    </td>
+  </tr>
+</table>
 
 Professional immigration officer with more than six (6) years of working experience in migration, with the Ghana Immigration Service. My main duties included and is not limited to MIS roles, Aide to the regional commander, supervising digital infrastructure for recruitments, verfication of applications for residence permits and issuance of same. I have a Bachelor of Science in Compter Science degree which i intend to use a foundation for pursuing a master's degree, and in the long run a PhD. I had my undergraduate studies in University of Business and Integrated Development Studies, located in Wa, Ghana.  
 
