@@ -6,7 +6,7 @@ title: Curriculum Vitae
 BERNARD KWESI ASEM  
 BSc Computer Science  
 Mobile: +233548481767  
-Email: [View Profile](asembernard5@gmail.com)  
+Email: [Send Email](asembernard5@gmail.com)  
 G47 Avocado Street, 
 GC-185-4233, Ghana  
 LinkedIn:[View Profile](https://tinyurl.com/2r3z539r) 
