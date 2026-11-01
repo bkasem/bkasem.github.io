@@ -63,24 +63,24 @@ April, 2020 – August, 2025
 ## RESEARCH EXPERIENCE  
 
 University of Business and Integrated Development Studies, Wa   				
-**Field Practical Training**
-August, 2022 - September, 2022
+**Field Practical Training**  
+August, 2022 - September, 2022  
 •	Created a Community Profile for the Goziiri community in the Upper West Region of Ghana using research techniques to gather, analyze and interpret data arriving at a recommendation of a needed community project with a detailed proposal.   
 
-**Undergraduate Final Year Research Project**  					
-June, 2025 - August, 2025  
+**Undergraduate Final Year Research Project**    					
+June, 2025 - August, 2025    
 •	Undergraduate research project on Plant Disease Classification Using Machine Learning Techniques leading to a mobile and offline application for both extensive and smallholder farmers.   
  
 ## TEACHING EXPERIENCE                                                                                                                  
-**Academic Tutor**   	 	 	 	 	 	 	 	 	 
-Faculty of Information and Communication Technology, UBIDS, Wa.    
-Nov, 2021 – July, 2025  
+**Academic Tutor**     	 	 	 	 	 	 	 	 	 
+Faculty of Information and Communication Technology, UBIDS, Wa.      
+Nov, 2021 – July, 2025    
 •	Prepared academic materials and organized tutorials for over 200 class mates and other students at lower levels.   
 •	Established and coordinated a study group, leading classes and practical sessions contributing to improvement in performance of colleagues in study groups.   
 
-**Academic Tutor (ICT)** 	 	 	 	   	 	 	 	 
-Destined Kids International School   
-Jan, 2017 - September 2017  
+**Academic Tutor (ICT)** 	 	 	 	     	 	 	 	 
+Destined Kids International School     
+Jan, 2017 - September 2017    
 •	Created weekly teaching syllabus with focus on relevant previous knowledge and practical engagements.   
 •	Taught about 120 students from Grades 4 to 7, and introduced students to computer practical and lab sessions.   
 •	Assessed and evaluated student’s performance daily, weekly, mid-term and termly.   
