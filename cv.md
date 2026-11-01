@@ -6,10 +6,10 @@ title: Curriculum Vitae
 BERNARD KWESI ASEM  
 BSc Computer Science  
 Mobile: +233548481767  
-Email: asembernard5@gmail.com  
+Email: [View Profile](asembernard5@gmail.com)  
 G47 Avocado Street, 
 GC-185-4233, Ghana  
-LinkedIn:[View Profile]https://tinyurl.com/2r3z539r 
+LinkedIn:[View Profile](https://tinyurl.com/2r3z539r) 
 
 ## RESEARCH INTERESTS                                                                                                                                   
 * Artificial Intelligence
@@ -22,7 +22,7 @@ LinkedIn:[View Profile]https://tinyurl.com/2r3z539r
 Nov, 2021 – Nov, 2025         
 BSc Computer Science  
 University of Business and Integrated Development Studies, Wa.  
-Final Grade :	4.59/5.0  	 	 	 	 	 	 	 
+Final Grade :	4.59/5.0  	 	 	 	 	 
 Thesis Title:  
 Plant Disease Classification Using Machine Learning Techniques   
 
