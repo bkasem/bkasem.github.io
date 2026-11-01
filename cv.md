@@ -22,10 +22,10 @@ GC-185-4233, Ghana
          
 **BSc Computer Science**  
 University of Business and Integrated Development Studies, Wa.  
-Nov, 2021 – Nov, 2025
+Nov, 2021 – Nov, 2025 <br>
 Final Grade :	4.59/5.0 <br>             	 	 	 	 	 
-Thesis Title:  
-**Plant Disease Classification Using Machine Learning Techniques**   
+**Thesis Title:**  
+Plant Disease Classification Using Machine Learning Techniques     
 
 **Advanced Professional in System Engineering**  
 IPMC College of Technology, Accra-Ghana  
@@ -62,7 +62,6 @@ April, 2020 – August, 2025 <br>
 
 ## RESEARCH EXPERIENCE  
 
-University of Business and Integrated Development Studies, Wa   <br>				
 **Field Practical Training**  <br>
 August, 2022 - September, 2022  <br>
 •	Created a Community Profile for the Goziiri community in the Upper West Region of Ghana using research techniques to gather, analyze and interpret data arriving at a recommendation of a needed community project with a detailed proposal.   
