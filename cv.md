@@ -2,7 +2,8 @@
 layout: default
 title: Curriculum Vitae
 ---
-
+[Home](index.md)
+---
 **BERNARD KWESI ASEM**  
 **BSc Computer Science**  
 **Mobile:** +233548481767  
