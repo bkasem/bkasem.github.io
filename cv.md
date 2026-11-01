@@ -22,7 +22,7 @@ LinkedIn:[View Profile](https://tinyurl.com/2r3z539r)
 Nov, 2021 – Nov, 2025         
 BSc Computer Science  
 University of Business and Integrated Development Studies, Wa.  
-Final Grade :	4.59/5.0               	 	 	 	 	 
+Final Grade :	4.59/5.0 <br>             	 	 	 	 	 
 Thesis Title:  
 Plant Disease Classification Using Machine Learning Techniques   
 
