@@ -15,7 +15,7 @@ title: Home
     </td>
     <td style="width: 70%; vertical-align: top; border: none;">
       <h2>Bernard Kwesi Asem</h2>
-      <p>BSc Computer Science</p>
+      <p>University of Business and Integrated Development Studies, BSc Computer Science</p>
       <p>Assistant Immigration Control Officer I</p>
       <p>Ghana Immigration Service</p>
     </td>
