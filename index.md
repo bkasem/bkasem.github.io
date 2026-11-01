@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-**[Home](index.md) | [CV](cv.md) | [Talks & Shows](talks.md)**
 
 ---
 **[Home](index.md) | [CV](cv.md) | [Talks & Shows](talks.md)**
