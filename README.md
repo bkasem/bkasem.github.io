@@ -7,6 +7,7 @@ Welcome to my personal corner of the internet. I'm a software and systems enthus
 ## Projects
 * **Remote Voting Systems**
 * **Voterside**
-
+## Talks and Shows
+![My Photo](assets/images/CybersecurityAwareness.jpg)
 ## Get in Touch
 Feel free to connect with me!
