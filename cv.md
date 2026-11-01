@@ -4,14 +4,17 @@ title: Curriculum Vitae
 ---
 
 BERNARD KWESI ASEM  
-G47 Avocado Street, GC-185-4233, Ghana   
-● +233548481767 ● asembernard5@gmail.com  
+BSc Computer Science
+Mobile: +233548481767 
+Email: asembernard5@gmail.com  
+G47 Avocado Street, 
+GC-185-4233, Ghana
 LinkedIn: https://tinyurl.com/2r3z539r 
 
-RESEARCH INTERESTS                                                                                                                                        
-* Artificial Intelligence/Machine Learning	* Cybersecurity *Computer Security
+##RESEARCH INTERESTS                                                                                                                                   
+* Artificial Intelligence *Machine Learning	*Data Science * Cybersecurity *Computer Security
  
-EDUCATION
+##EDUCATION
 BSc Computer Science 								Nov, 2021 – Nov, 2025 University of Business and Integrated Development Studies, Wa.        
 Final Grade 	 	 	 	 	 	 	 	 
 Thesis Title: 
