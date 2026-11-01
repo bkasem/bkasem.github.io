@@ -3,21 +3,22 @@ layout: default
 title: Home
 
 ---
-**[Home](index.md) | [CV](cv.md) | [Talks & Shows](talks.md)**
+[Home](index.md) | [CV](cv.md) | [Talks & Shows](talks.md)
 
 
 
 # About Me
-My interests are in Artificial Intelligence, Data Science, and its intersection with application areas in agriculture, cybersecurty, therapy, migration, and other allied areas. My short term goals evolve around designing longlaasting technical AI-driven solutions that will contribute to solving Ghana's critical digigtsl and administartive issues including spanning policy and initiative development, social engineering, administrative reforms, climate based recomendation etc. I had my undergraduate studies in University of Business and Integrated Development Studies, located in Wa. I have more than six years of professional experience in migration, working with the Ghana Immigration Service as an immigration officer. 
+Professional immigration officer with more than six (6) years of working experience in migration, with the Ghana Immigration Service. My main duties included and is not limited to MIS roles, Aide to the regional commander, supervising digital infrastructure for recruitments, verfication of applications for residence permits and issuance of same. I have a Bachelor of Science in Compter Science degree which i intend to use a foundation for pursuing a master's degree, and in the long run a PhD. I had my undergraduate studies in University of Business and Integrated Development Studies, located in Wa, Ghana.  
 
-
+My interests are in Artificial Intelligence, Data Science, and its intersection with application areas in agriculture, cybersecurty, therapy, migration, and other areas. My short term goals evolve around designing long-lasting AI-driven systems, that will contribute to solving Ghana's critical digital deficit and administrative reforms, involving policy and initiative development, digital health and safety, agriculture sustainability and climate resilience.
 ---
 
-Welcome to my personal corner of the internet. I’m a software and systems enthusiast interested in distributed systems, machine learning, and spatial data.
+Focusing on the implementation of my skills and experiences, I aim to take advantage of digital platforms like Tiktok to contribute to creating awareness on cybersecurity, mental health solutions and coping mechanisms for men. Below are links to some sessions held on TikTok on cybersecurity awareness:
 
-## Projects
-* **Remote Voting Systems**
-* **Voterside**
+[Cybersecurity Awareness](https://vt.tiktok.com/ZSgKAAqQ8/)
+[Cyberspace Behavior](https://vt.tiktok.com/ZSgKDJd9r/)
+
+
 
 ## Talks and Shows
 
@@ -28,3 +29,18 @@ Welcome to my personal corner of the internet. I’m a software and systems enth
 
 ## Get in Touch
 Feel free to connect with me!
+
+<p>
+  <a href="https://tinyurl.com/2r3z539r" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.tiktok.com/@bra.asem" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://github.com/bkasem" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:asembernard5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
