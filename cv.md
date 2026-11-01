@@ -45,14 +45,14 @@ Organizational skills, Public Speaking.
 
   	
 ## WORK EXPERIENCE                                                                                                                     
-**Ghana Immigration Service, Accra**						
-August, 2025 - Present  
-•	Issued over eight hundred (800) residence permits and visa extensions.  
-•	Captured about 1,700 entries of issuances of permits and extensions unto the Ghana Immigration Service MIS.  
+**Ghana Immigration Service, Accra** <br> 					
+August, 2025 - Present <br>
+•	Issued over eight hundred (800) residence permits and visa extensions.  <br>
+•	Captured about 1,700 entries of issuances of permits and extensions unto the Ghana Immigration Service MIS.   <br>
   
-**Ghana Immigration Service, Wa**  
-MIS Unit- Assistant Team Lead                                                             	 	 
-April, 2020 – August, 2025
+**Ghana Immigration Service, Wa**  <br>
+MIS Unit- Assistant Team Lead          <br>                                                   	 	 
+April, 2020 – August, 2025 <br>
 •	Installed and configured over 10 newly acquired computer systems.   
 •	Ensured timely software and hardware updates of about 20 desktop computers and printers.    
 •	Assessed and maintained computer systems and assets in the office.  
@@ -62,25 +62,25 @@ April, 2020 – August, 2025
 
 ## RESEARCH EXPERIENCE  
 
-University of Business and Integrated Development Studies, Wa   				
-**Field Practical Training**  
-August, 2022 - September, 2022  
+University of Business and Integrated Development Studies, Wa   <br>				
+**Field Practical Training**  <br>
+August, 2022 - September, 2022  <br>
 •	Created a Community Profile for the Goziiri community in the Upper West Region of Ghana using research techniques to gather, analyze and interpret data arriving at a recommendation of a needed community project with a detailed proposal.   
 
-**Undergraduate Final Year Research Project**    					
-June, 2025 - August, 2025    
+**Undergraduate Final Year Research Project** <br>   					
+June, 2025 - August, 2025    <br>
 •	Undergraduate research project on Plant Disease Classification Using Machine Learning Techniques leading to a mobile and offline application for both extensive and smallholder farmers.   
  
 ## TEACHING EXPERIENCE                                                                                                                  
-**Academic Tutor**     	 	 	 	 	 	 	 	 	 
-Faculty of Information and Communication Technology, UBIDS, Wa.      
-Nov, 2021 – July, 2025    
+**Academic Tutor**     	 	 	 <br>	 	 	 	 	 	 
+Faculty of Information and Communication Technology, UBIDS, Wa.      <br>
+Nov, 2021 – July, 2025    <br>
 •	Prepared academic materials and organized tutorials for over 200 class mates and other students at lower levels.   
 •	Established and coordinated a study group, leading classes and practical sessions contributing to improvement in performance of colleagues in study groups.   
 
-**Academic Tutor (ICT)** 	 	 	 	     	 	 	 	 
-Destined Kids International School     
-Jan, 2017 - September 2017    
+**Academic Tutor (ICT)** <br>	 	 	 	     	 	 	 	 
+Destined Kids International School     <br>
+Jan, 2017 - September 2017    <br>
 •	Created weekly teaching syllabus with focus on relevant previous knowledge and practical engagements.   
 •	Taught about 120 students from Grades 4 to 7, and introduced students to computer practical and lab sessions.   
 •	Assessed and evaluated student’s performance daily, weekly, mid-term and termly.   
