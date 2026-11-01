@@ -2,7 +2,11 @@ theme: jekyll-theme-cayman
 title: Bernard Kwesi Asem
 description: Personal Blog & Portfolio
 
-header_pages:
-  - index.md
-  - cv.md
-  - talks.md
+# Define explicit navigation links for the theme
+navigation:
+  - title: Home
+    url: /
+  - title: CV
+    url: /cv
+  - title: Talks & Shows
+    url: /talks
