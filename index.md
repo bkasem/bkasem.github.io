@@ -38,8 +38,8 @@ Below are links to some sessions held on TikTok on cybersecurity awareness:
 ## Talks and Shows
 
 <p align="center">
-  <img src="assets/images/CyberspaceBehavior.jpg" width="45%" style="display: inline-block; margin-right: 10px;" alt="Cyberspace Behavior" />
-  <img src="assets/images/CybersecurityAwareness.jpg" width="45%" style="display: inline-block;" alt="CybersecurityAwareness" />
+  <img src="assets/images/CyberspaceBehavior.jpg" width="45%" height="220px" style="display: inline-block; margin-right: 10px; object-fit: cover;" alt="Cyberspace Behavior" />
+  <img src="assets/images/CybersecurityAwareness.jpg" width="45%" height="220px" style="display: inline-block; object-fit: cover;" alt="CybersecurityAwareness" />
 </p>
 
 ## Get in Touch
